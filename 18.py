@@ -1,3 +1,7 @@
+# 18. Use House_Price prediction dataset. Provide summary statistics (mean, median, minimum, maximum, standard deviation) 
+# of variables (categorical vs quantitative) such as- For example, if categorical variable is age groups and quantitative variable 
+# is income, then provide summary statistics of income grouped by the age groups.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
